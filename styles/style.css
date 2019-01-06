@@ -31,6 +31,7 @@ h2 {
 .photo-container {
   height: 100vh;
   background-image: url('/static/me.jpg');
+  background-size: cover;
 }
 
 .about-me {
