@@ -1,0 +1,73 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: "Avenir", sans-serif;
+  color: #030303;
+}
+
+a {
+  color: inherit;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+.home {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.photo-container {
+  height: 100vh;
+  background-image: url('/static/me.jpg');
+}
+
+.about-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.strapline {
+  border-top: 1px solid #979797;
+  border-bottom: 1px solid #979797;
+  padding: 0 100px;
+  margin-bottom: 20px
+}
+
+.social {
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;;
+}
+
+.social-icon {
+  margin-right: 20px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .home {
+    display: block;
+  }
+
+  .photo-container {
+    display: none;
+  }
+
+  .about-me {
+    padding: 100px;
+  }
+}
