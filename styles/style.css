@@ -9,7 +9,8 @@ html {
 body {
   margin: 0;
   font-family: "Avenir", sans-serif;
-  color: #030303;
+  /* color: #030303; */
+  color: #303030;
 }
 
 a {
