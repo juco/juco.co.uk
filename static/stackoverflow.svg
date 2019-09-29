@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="30px" viewBox="0 0 23 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>stack</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A3" transform="translate(-577.000000, -439.000000)" fill="#303030" fill-rule="nonzero">
+            <g id="stack" transform="translate(577.000000, 439.000000)">
+                <polygon id="Path" points="0.103 17.482 2.304 17.504 2.227 27.303 16.873 27.303 16.873 17.539 19.192 17.539 19.192 29.683 0.092 29.683 0.104 17.482"></polygon>
+                <polygon id="Path" points="3.692 23.275 15.164 23.275 15.164 25.716 3.692 25.716"></polygon>
+                <polygon id="Path" points="3.961 18.882 15.441 19.99 15.201 22.48 3.721 21.372 3.961 18.882"></polygon>
+                <polygon id="Path" points="5.011 13.914 16.111 17.047 15.431 19.455 4.331 16.322 5.011 13.914"></polygon>
+                <polygon id="Path" points="7.702 8.3 17.574 14.263 16.28 16.405 6.408 10.442"></polygon>
+                <polygon id="Path" points="13.317 2.982 20.034 12.357 18 13.814 11.283 4.439"></polygon>
+                <polygon id="Path" points="21.12 0.433 23.021 11.809 20.553 12.221 18.652 0.845"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

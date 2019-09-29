@@ -9,8 +9,8 @@ html {
 body {
   margin: 0;
   font-family: "Avenir", sans-serif;
-  /* color: #030303; */
   color: #303030;
+  font-size: 16px;
 }
 
 a {
@@ -44,6 +44,10 @@ h2 {
   padding: 20px;
 }
 
+.about-me-content {
+  max-width: 700px;
+}
+
 .strapline {
   border-top: 1px solid #979797;
   border-bottom: 1px solid #979797;
@@ -52,13 +56,14 @@ h2 {
 }
 
 .social {
-  font-size: 1.4rem;
+  width: 500px;
   display: flex;
-  justify-content: center;;
+  justify-content: space-between;
+  margin-top: 30px;
 }
 
-.social-icon {
-  margin-right: 20px;
+.social-icon:hover {
+  color: #5CB8E6;
 }
 
 @media only screen and (max-width: 1024px) {
