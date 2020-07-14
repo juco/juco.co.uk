@@ -7,6 +7,6 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "serve": "^10.1.1"
+    "serve": "^11.3.2"
   }
 }
